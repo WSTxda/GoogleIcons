@@ -69,7 +69,6 @@
     <item component="ComponentInfo{org.telegram.messenger/org.telegram.ui.LaunchActivity}" drawable="telegram" />
     <item component="ComponentInfo{org.thunderdog.challegram/.MainActivity}" drawable="telegramx" />
     <item component="ComponentInfo{com.google.android.apps.translate/.TranslateActivity}" drawable="translate" />
-    <item component="ComponentInfo{com.google.android.apps.nbu.files/.home.HomeActivity}" drawable="files" />
     <item component="ComponentInfo{com.google.android.talk/.SigningInActivity}" drawable="hangouts" />
     <item component="ComponentInfo{com.intsig.camscanner/.WelcomeActivity}" drawable="camscanner" />
     <item component="ComponentInfo{com.spotify.music/.MainActivity}" drawable="spotify" />
@@ -86,7 +85,6 @@
     <item component="ComponentInfo{com.musixmatch.android.lyrify/com.musixmatch.android.ui.phone.DashBoardActivity}" drawable="musixmatch" />
     <item component="ComponentInfo{com.bitstrips.imoji/.ui.LandingActivity}" drawable="bitmoji" />
     <item component="ComponentInfo{com.footej.camera/.CameraActivity}" drawable="camera" />
-    <item component="ComponentInfo{pl.solidexplorer2/pl.solidexplorer.SolidExplorer}" drawable="files" />
     <item component="ComponentInfo{com.soundcloud.creators/com.soundcloud.creators.MainActivity}" drawable="soundcloud_pulse" />
     <item component="ComponentInfo{com.soundcloud.android/com.soundcloud.android.main.LauncherActivity}" drawable="soundcloud" />
     <item component="ComponentInfo{com.spotify.s4a/.SplashActivity}" drawable="spotify_artists" />
@@ -119,9 +117,6 @@
     <item component="ComponentInfo{com.zoiper.android.app/com.zoiper.android.ui.MainActivity}" drawable="dialer" />
     <item component="ComponentInfo{com.globalegrow.app.gearbest/com.globalegrow.app.gearbest.SplashActivity}" drawable="gearbest" />
     <item component="ComponentInfo{com.doodle.android/com.doodle.activities.SplashActivity}" drawable="doodle" />
-    <item component="ComponentInfo{com.mixplorer.silver/com.mixplorer.activities.BrowseActivity}" drawable="files" />
-    <item component="ComponentInfo{com.speedsoftware.rootexplorer/com.speedsoftware.rootexplorer.RootExplorer}" drawable="files" />
-    <item component="ComponentInfo{com.kodarkooperativet.blackplayerex/.activities.ViewPagerActivity}" drawable="phonograph" />
 
     <!-- ASUS -->
     <item component="ComponentInfo{com.android.browser/.BrowserActivity}" drawable="browser" />
